@@ -12,14 +12,14 @@ footer ul a {
 	display: block;
 }
 
-a:hover { 
-	color: red;
-}
-
 a:link {
 	color: blue;
 }
 
 a:visited {
 	color: green;
+}
+
+a:hover { 
+	color: red;
 }
