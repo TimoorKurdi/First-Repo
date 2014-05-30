@@ -1,0 +1,25 @@
+body {
+	background-color: #ccc;
+	font-style: helvetica;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
+}
+
+footer ul a {
+	display: block;
+}
+
+a:hover { 
+	color: red;
+}
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: green;
+}
